@@ -1,3 +1,6 @@
+### Hello! ✌🏻
+#### Take a peek at some of my projects!
+
 <!--
 **Aaron-Cunningham/Aaron-Cunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
